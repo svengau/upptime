@@ -22,9 +22,9 @@
     "url": "https://app.mes-soins-infirmiers.com",
     "icon": "https://favicons.githubusercontent.com/app.mes-soins-infirmiers.com",
     "slug": "app-mes-soins-infirmiers-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +33,16 @@
     "timeWeek": 181,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "internationalschoolist.com",
     "url": "https://www.internationalschoolist.com",
     "icon": "https://favicons.githubusercontent.com/www.internationalschoolist.com",
     "slug": "internationalschoolist-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 194,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "fullstackrocket.com",
