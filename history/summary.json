@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 100,
-    "timeWeek": 150,
-    "timeMonth": 158,
-    "timeYear": 156,
+    "time": 155,
+    "timeDay": 108,
+    "timeWeek": 141,
+    "timeMonth": 157,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/app.mes-soins-infirmiers.com",
     "slug": "app-mes-soins-infirmiers-com",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.90%",
-    "time": 328,
-    "timeDay": 155,
-    "timeWeek": 172,
-    "timeMonth": 347,
-    "timeYear": 328,
+    "uptimeYear": "99.91%",
+    "time": 336,
+    "timeDay": 730,
+    "timeWeek": 263,
+    "timeMonth": 362,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2022-07-03": 32,
       "2022-06-29": 24
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 210,
-    "timeDay": 142,
-    "timeWeek": 167,
+    "time": 209,
+    "timeDay": 184,
+    "timeWeek": 166,
     "timeMonth": 216,
-    "timeYear": 210,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2022-06-29": 23
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 182,
-    "timeWeek": 229,
-    "timeMonth": 326,
-    "timeYear": 354,
+    "time": 352,
+    "timeDay": 288,
+    "timeWeek": 246,
+    "timeMonth": 329,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   }
 ]
