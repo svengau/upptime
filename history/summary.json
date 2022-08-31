@@ -22,9 +22,9 @@
     "url": "https://app.mes-soins-infirmiers.com",
     "icon": "https://favicons.githubusercontent.com/app.mes-soins-infirmiers.com",
     "slug": "app-mes-soins-infirmiers-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
@@ -34,6 +34,7 @@
     "timeMonth": 447,
     "timeYear": 378,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-08-20": 16,
       "2022-07-03": 32,
       "2022-06-29": 24
@@ -44,9 +45,9 @@
     "url": "https://www.internationalschoolist.com",
     "icon": "https://favicons.githubusercontent.com/www.internationalschoolist.com",
     "slug": "internationalschoolist-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -56,6 +57,7 @@
     "timeMonth": 194,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-08-20": 16,
       "2022-06-29": 23
     }
@@ -65,7 +67,7 @@
     "url": "https://www.fullstackrocket.com",
     "icon": "https://favicons.githubusercontent.com/www.fullstackrocket.com",
     "slug": "fullstackrocket-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +78,8 @@
     "timeWeek": 511,
     "timeMonth": 329,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   }
 ]
