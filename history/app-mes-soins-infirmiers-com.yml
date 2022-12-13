@@ -1,7 +1,7 @@
 url: https://app.mes-soins-infirmiers.com
-status: down
-code: 500
-responseTime: 3158
-lastUpdated: 2022-12-13T14:55:27.211Z
+status: up
+code: 200
+responseTime: 107
+lastUpdated: 2022-12-13T15:05:41.759Z
 startTime: Mon Jun 20 2022 10:06:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
