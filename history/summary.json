@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.33%",
     "time": 155,
-    "timeDay": 160,
-    "timeWeek": 169,
-    "timeMonth": 161,
+    "timeDay": 212,
+    "timeWeek": 171,
+    "timeMonth": 162,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2024-04-21": 235,
-      "2024-04-20": 1121,
-      "2023-06-13": 742
+      "2024-04-20": 1121
     }
   },
   {
@@ -31,15 +30,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.57%",
     "time": 221,
-    "timeDay": 127,
-    "timeWeek": 194,
-    "timeMonth": 204,
+    "timeDay": 255,
+    "timeWeek": 200,
+    "timeMonth": 206,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-03-16": 66,
-      "2023-06-13": 742
+      "2024-03-16": 66
     }
   },
   {
@@ -52,15 +50,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.59%",
     "time": 200,
-    "timeDay": 101,
-    "timeWeek": 132,
-    "timeMonth": 127,
+    "timeDay": 202,
+    "timeWeek": 131,
+    "timeMonth": 128,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2023-06-13": 742
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fullstackrocket.com",
@@ -74,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 101,
-    "timeWeek": 140,
-    "timeMonth": 132,
-    "timeYear": 231,
+    "timeDay": 198,
+    "timeWeek": 127,
+    "timeMonth": 133,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2024-03-16": 26
     }
