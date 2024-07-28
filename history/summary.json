@@ -45,18 +45,20 @@
     "url": "https://www.internationalschoolist.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.internationalschoolist.com.ico",
     "slug": "internationalschoolist-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 107,
-    "timeWeek": 181,
-    "timeMonth": 154,
+    "timeDay": 94,
+    "timeWeek": 168,
+    "timeMonth": 152,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "fullstackrocket.com",
