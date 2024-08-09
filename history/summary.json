@@ -45,19 +45,19 @@
     "url": "https://www.internationalschoolist.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.internationalschoolist.com.ico",
     "slug": "internationalschoolist-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 3060,
-    "timeWeek": 917,
-    "timeMonth": 336,
+    "timeDay": 2105,
+    "timeWeek": 836,
+    "timeMonth": 332,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-08-09": 0
+      "2024-08-09": 12
     }
   },
   {
