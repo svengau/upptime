@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 152,
-    "timeDay": 126,
-    "timeWeek": 135,
+    "time": 153,
+    "timeDay": 175,
+    "timeWeek": 140,
     "timeMonth": 157,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.mes-soins-infirmiers.com.ico",
     "slug": "app-mes-soins-infirmiers-com",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 320,
-    "timeWeek": 269,
-    "timeMonth": 213,
+    "timeDay": 107,
+    "timeWeek": 251,
+    "timeMonth": 210,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2024-03-16": 66
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 78,
-    "timeWeek": 125,
-    "timeMonth": 317,
-    "timeYear": 182,
+    "timeDay": 141,
+    "timeWeek": 127,
+    "timeMonth": 312,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 243,
-    "timeWeek": 158,
-    "timeMonth": 159,
-    "timeYear": 217,
+    "timeDay": 67,
+    "timeWeek": 151,
+    "timeMonth": 156,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2024-03-16": 26
     }
