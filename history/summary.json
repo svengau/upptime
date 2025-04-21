@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.96%",
     "time": 161,
-    "timeDay": 177,
-    "timeWeek": 160,
-    "timeMonth": 192,
-    "timeYear": 165,
-    "dailyMinutesDown": {
-      "2024-04-21": 235
-    }
+    "timeDay": 118,
+    "timeWeek": 153,
+    "timeMonth": 191,
+    "timeYear": 164,
+    "dailyMinutesDown": {}
   },
   {
     "name": "app.mes-soins-infirmiers.com",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 89,
-    "timeWeek": 201,
-    "timeMonth": 281,
+    "time": 234,
+    "timeDay": 213,
+    "timeWeek": 206,
+    "timeMonth": 284,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 129,
-    "timeWeek": 206,
-    "timeMonth": 202,
+    "timeDay": 286,
+    "timeWeek": 213,
+    "timeMonth": 205,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -66,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 163,
-    "timeWeek": 267,
-    "timeMonth": 256,
+    "time": 208,
+    "timeDay": 165,
+    "timeWeek": 259,
+    "timeMonth": 258,
     "timeYear": 209,
     "dailyMinutesDown": {}
   }
