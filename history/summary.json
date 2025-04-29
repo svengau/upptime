@@ -23,10 +23,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.mes-soins-infirmiers.com.ico",
     "slug": "app-mes-soins-infirmiers-com",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.65%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 158,
@@ -34,7 +34,8 @@
     "timeMonth": 255,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-29": 14,
+      "2025-04-28": 1
     }
   },
   {
