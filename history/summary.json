@@ -61,19 +61,19 @@
     "url": "https://www.fullstackrocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.fullstackrocket.com.ico",
     "slug": "fullstackrocket-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 1679,
-    "timeWeek": 585,
-    "timeMonth": 349,
+    "time": 222,
+    "timeDay": 1168,
+    "timeWeek": 536,
+    "timeMonth": 343,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-06-08": 0
+      "2025-06-08": 11
     }
   }
 ]
