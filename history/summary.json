@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 173,
-    "timeWeek": 189,
-    "timeMonth": 164,
+    "timeDay": 227,
+    "timeWeek": 196,
+    "timeMonth": 166,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 133,
-    "timeWeek": 279,
-    "timeMonth": 229,
-    "timeYear": 246,
+    "timeDay": 210,
+    "timeWeek": 282,
+    "timeMonth": 231,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2025-04-29": 35,
       "2025-04-28": 1
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 172,
-    "timeWeek": 244,
-    "timeMonth": 204,
+    "timeDay": 212,
+    "timeWeek": 243,
+    "timeMonth": 206,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -63,17 +63,15 @@
     "slug": "fullstackrocket-com",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 1168,
-    "timeWeek": 536,
+    "timeDay": 1187,
+    "timeWeek": 551,
     "timeMonth": 343,
-    "timeYear": 229,
-    "dailyMinutesDown": {
-      "2025-06-08": 11
-    }
+    "timeYear": 230,
+    "dailyMinutesDown": {}
   }
 ]
