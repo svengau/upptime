@@ -4,18 +4,20 @@
     "url": "https://www.mes-soins-infirmiers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mes-soins-infirmiers.com.ico",
     "slug": "mes-soins-infirmiers-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 142,
-    "timeWeek": 186,
-    "timeMonth": 168,
+    "timeDay": 162,
+    "timeWeek": 187,
+    "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 12
+    }
   },
   {
     "name": "app.mes-soins-infirmiers.com",
