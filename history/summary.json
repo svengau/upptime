@@ -6,9 +6,9 @@
     "slug": "mes-soins-infirmiers-com",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 141,
@@ -16,7 +16,7 @@
     "timeMonth": 170,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 16
     }
   },
   {
