@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 156,
-    "timeWeek": 179,
-    "timeMonth": 179,
+    "timeDay": 128,
+    "timeWeek": 164,
+    "timeMonth": 178,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-07-19": 16
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
-    "timeDay": 189,
-    "timeWeek": 214,
-    "timeMonth": 211,
-    "timeYear": 253,
+    "timeDay": 226,
+    "timeWeek": 204,
+    "timeMonth": 212,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2025-04-29": 35,
       "2025-04-28": 1
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.internationalschoolist.com.ico",
     "slug": "internationalschoolist-com",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 116,
-    "timeWeek": 164,
-    "timeMonth": 178,
-    "timeYear": 208,
+    "time": 191,
+    "timeDay": 188,
+    "timeWeek": 154,
+    "timeMonth": 180,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 355,
-    "timeWeek": 256,
-    "timeMonth": 265,
+    "timeDay": 220,
+    "timeWeek": 217,
+    "timeMonth": 259,
     "timeYear": 242,
     "dailyMinutesDown": {}
   }
