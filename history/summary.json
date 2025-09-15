@@ -6,17 +6,16 @@
     "slug": "mes-soins-infirmiers-com",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 135,
-    "timeWeek": 185,
+    "timeDay": 148,
+    "timeWeek": 180,
     "timeMonth": 225,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-09-14": 10,
       "2025-07-19": 16
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 245,
-    "timeDay": 212,
-    "timeWeek": 249,
-    "timeMonth": 274,
-    "timeYear": 256,
+    "timeDay": 113,
+    "timeWeek": 223,
+    "timeMonth": 271,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2025-04-29": 35,
       "2025-04-28": 1
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 193,
-    "timeWeek": 190,
-    "timeMonth": 249,
+    "timeDay": 145,
+    "timeWeek": 188,
+    "timeMonth": 248,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 114,
-    "timeWeek": 445,
-    "timeMonth": 325,
+    "timeDay": 353,
+    "timeWeek": 469,
+    "timeMonth": 328,
     "timeYear": 254,
     "dailyMinutesDown": {}
   }
