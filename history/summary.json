@@ -4,18 +4,19 @@
     "url": "https://www.mes-soins-infirmiers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mes-soins-infirmiers.com.ico",
     "slug": "mes-soins-infirmiers-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 168,
-    "timeWeek": 230,
-    "timeMonth": 200,
+    "timeDay": 198,
+    "timeWeek": 216,
+    "timeMonth": 197,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2025-09-30": 0,
       "2025-07-19": 16
     }
   },
@@ -31,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 233,
-    "timeWeek": 350,
+    "timeDay": 220,
+    "timeWeek": 287,
     "timeMonth": 297,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -47,18 +48,16 @@
     "slug": "internationalschoolist-com",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 571,
-    "timeWeek": 378,
-    "timeMonth": 276,
-    "timeYear": 210,
-    "dailyMinutesDown": {
-      "2025-09-30": 12
-    }
+    "timeDay": 442,
+    "timeWeek": 372,
+    "timeMonth": 277,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "fullstackrocket.com",
@@ -71,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 231,
-    "timeWeek": 432,
-    "timeMonth": 336,
+    "time": 237,
+    "timeDay": 246,
+    "timeWeek": 423,
+    "timeMonth": 337,
     "timeYear": 258,
     "dailyMinutesDown": {}
   }
