@@ -27,9 +27,9 @@
     "slug": "app-mes-soins-infirmiers-com",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 251,
     "timeDay": 259,
@@ -37,7 +37,7 @@
     "timeMonth": 263,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-10-20": 3,
+      "2025-10-20": 15,
       "2025-04-29": 35,
       "2025-04-28": 1
     }
@@ -65,19 +65,19 @@
     "url": "https://www.fullstackrocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.fullstackrocket.com.ico",
     "slug": "fullstackrocket-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 262,
-    "timeWeek": 283,
-    "timeMonth": 280,
-    "timeYear": 262,
+    "time": 240,
+    "timeDay": 193,
+    "timeWeek": 263,
+    "timeMonth": 275,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 13
     }
   }
 ]
