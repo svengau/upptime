@@ -25,10 +25,10 @@
     "url": "https://app.mes-soins-infirmiers.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.mes-soins-infirmiers.com.ico",
     "slug": "app-mes-soins-infirmiers-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 253,
@@ -37,7 +37,7 @@
     "timeMonth": 292,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-10-20": 25,
+      "2025-10-20": 28,
       "2025-04-29": 35,
       "2025-04-28": 1
     }
@@ -47,10 +47,10 @@
     "url": "https://www.internationalschoolist.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.internationalschoolist.com.ico",
     "slug": "internationalschoolist-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
@@ -58,24 +58,28 @@
     "timeWeek": 265,
     "timeMonth": 276,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "fullstackrocket.com",
     "url": "https://www.fullstackrocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.fullstackrocket.com.ico",
     "slug": "fullstackrocket-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
+    "time": 241,
     "timeDay": 193,
     "timeWeek": 263,
     "timeMonth": 275,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   }
 ]
