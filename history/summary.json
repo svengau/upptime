@@ -6,9 +6,9 @@
     "slug": "mes-soins-infirmiers-com",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 180,
     "timeDay": 247,
@@ -16,7 +16,7 @@
     "timeMonth": 249,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-11-18": 18,
+      "2025-11-18": 30,
       "2025-10-20": 17,
       "2025-07-19": 16
     }
@@ -26,18 +26,19 @@
     "url": "https://app.mes-soins-infirmiers.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.mes-soins-infirmiers.com.ico",
     "slug": "app-mes-soins-infirmiers-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 420,
-    "timeWeek": 309,
-    "timeMonth": 421,
+    "timeDay": 348,
+    "timeWeek": 291,
+    "timeMonth": 413,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-20": 25,
       "2025-04-29": 35,
       "2025-04-28": 1
@@ -48,16 +49,16 @@
     "url": "https://www.internationalschoolist.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.internationalschoolist.com.ico",
     "slug": "internationalschoolist-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 213,
-    "timeWeek": 232,
-    "timeMonth": 334,
+    "timeDay": 174,
+    "timeWeek": 214,
+    "timeMonth": 326,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2025-11-18": 18
@@ -70,17 +71,17 @@
     "slug": "fullstackrocket-com",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 288,
     "timeDay": 179,
     "timeWeek": 317,
     "timeMonth": 872,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2025-11-18": 18
+      "2025-11-18": 30
     }
   }
 ]
