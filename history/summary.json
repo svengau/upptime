@@ -11,9 +11,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 180,
-    "timeDay": 179,
-    "timeWeek": 170,
-    "timeMonth": 243,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 245,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2025-11-18": 141,
@@ -35,7 +35,7 @@
     "time": 268,
     "timeDay": 286,
     "timeWeek": 273,
-    "timeMonth": 392,
+    "timeMonth": 394,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2025-11-18": 153,
@@ -51,17 +51,17 @@
     "slug": "internationalschoolist-com",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "87.96%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "88.77%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
-    "time": 233,
-    "timeDay": 845,
+    "time": 234,
+    "timeDay": 844,
     "timeWeek": 604,
     "timeMonth": 458,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-11-18": 174
+      "2025-11-18": 162
     }
   },
   {
@@ -76,9 +76,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 290,
-    "timeDay": 257,
-    "timeWeek": 306,
-    "timeMonth": 797,
+    "timeDay": 253,
+    "timeWeek": 299,
+    "timeMonth": 798,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-11-18": 141
